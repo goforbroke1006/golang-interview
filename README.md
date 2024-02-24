@@ -36,6 +36,7 @@ Interview questions for Software (Go/Golang) engineer position.
 * Scheduling in Go [part 1](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 * Scheduling in Go [part 2](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
 * Scheduling in Go [part 3](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
+* Go + EPOLL [discuss on SoF](https://stackoverflow.com/questions/58808491/advantages-of-epoll-integration)
 
 ### Useful links
 
